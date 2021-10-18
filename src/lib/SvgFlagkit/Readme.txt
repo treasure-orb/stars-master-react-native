@@ -1,0 +1,1 @@
+URL: https://github.com/jackmew/react-native-svg-flagkit

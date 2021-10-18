@@ -1,0 +1,260 @@
+{
+    "Home":"Home",
+    "Book in just 2 steps": "Book in just 2 steps",
+    "Select the appropriate therapist": "Select the appropriate therapist",
+    "Enjoy our services": "Enjoy our services",
+    "Review": "Review",
+    "intro_body_1":"Key in your address and choose Therapy package then press \"Book\".",
+    "intro_body_2":"Ozenii will find you the nearest available therapists for your therapy package.",
+    "intro_body_3": "The beauty of a Ozenii massage service means you can relax and enjoy your treatment in a comfortable familiar environment. ",
+    "intro_body_4": "Share your experience details with loved ones to let everyone know you've experienced our great service",
+    "Signin canceled":"Signin canceled",
+    "Signin in progress":"Signin in progress",
+    "Google Signin":"Google Signin",
+    "Next":"Next",
+    "Skip": "Skip",
+    "google play services are not available.":"google play services are not available.",
+    "Join as Staff":"Join as Staff" ,
+    "Sign in with Google" : "Sign in with Google",
+    "Login":"Login",
+    "Some errors are occured.":"Some errors are occured.",
+    "Register":"Register",
+    "First Name":"First Name",
+    "Last Name":"Last Name",
+    "User Email":"User Email",
+    "Password":"Password",
+    "Retype Password":"Retype Password",
+    "PhoneNumber":"PhoneNumber",
+    "Address":"Address",
+    "Stripe Email":"Stripe Email",
+    "Select Packages":"Select Packages",
+    "Done":"Done",
+    "Location is needed":"Location is needed",
+    "Location is needed to show your position in map and find near by services." :"Location is needed to show your position in map and find near by services.",
+    "Ask Me Later":"Ask Me Later",
+    "Cancel":"Cancel",
+    "OK":"OK",
+    "Location Permission":"Location Permission",
+    "Location_permission_body_alert":"Location permission is not allowed, some features maybe not working well. try restart app and allow location permission.",
+    "Confirm":"Confirm",
+    "Please select your avatar.":"Please select your avatar.",
+    "Please select your location correctly.":"Please select your location correctly.",
+    "Please input first name.":"Please input first name.",
+    "Please input last name.":"Please input last name.",
+    "Please input valid email address.":"Please input valid email address.",
+    "Password is required.":"Password is required.",
+    "Password is not correct.":"Password is not correct.",
+    "Please input phone number.":"Please input phone number.",
+    "Please input address.":"Please input address.",
+    "Please input valid Stripe email address.":"Please input valid Stripe email address.",
+    "please choose your avatar for staffs .":"please choose your avatar for staffs .",
+
+    "Oops!":"Oops!",
+    "Failed to login, please try again.":"Failed to login, please try again.",
+    "Email or password is not correct, please try again.":"Email or password is not correct, please try again.",
+    "Password is invalid.":"Password is invalid.",
+    "I have forgot password.":"I have forgot password.",
+
+    "Oops":"Oops",
+    "Failed to send request, please try again.":"Failed to send request, please try again.",
+    "Failed to send request.":"Failed to send request.",
+    "Send Request Mail":"Send Request Mail",
+    "What is your Language?":"What is your Language?",
+    "Which currency are you using?":"Which currency are you using?",
+
+    "Warning":"Warning",
+    "Please select address and your location on map correctly":"Please select address and your location on map correctly",
+    "Select your address to get service.":"Select your address to get service.",
+
+
+    "Office":"Office",
+    "Custom":"Custom",
+    "Custom address type":"Custom address type",
+    "I want get service at":"I want get service at",
+
+    "Select Service Pack":"Select Service Pack",
+    "Failed to search staffs for this package.":"Failed to search staffs for this package.",
+    "Unfortunately there is nobody, please try with other service.":"Unfortunately there is nobody, please try with other service.",
+    "Failed to search staffs for this package, try again after a moment":"Failed to search staffs for this package, try again after a moment",
+    "You can choose a staff":"You can choose a staff",
+    
+    "Latest Review":"Latest Review",
+    "See All":"See All",
+    "Yeah!":"Yeah!",
+
+    "There are ":"There are ",
+    " service providers. please check.":" service providers. please check.",
+    "Booking Date":"Booking Date",
+    "Select Booking Date":"Select Booking Date",
+    "Not found time slots for booking date.":"Not found time slots for booking date.",
+    "There is no valid time slot, please pick other date.":"There is no valid time slot, please pick other date.",
+    "Not found time slots for booking date. try again with other date.":"Not found time slots for booking date. try again with other date.",
+    "There is no available time slot. please choose other booking date.":"There is no available time slot. please choose other booking date.",
+    "Select Time Slot":"Select Time Slot",
+    "Time Slot":"Time Slot",
+    "Failed to post new request, please try again.":"Failed to post new request, please try again.",
+    "Finalize booking by choose time!":"Finalize booking by choose time!",
+
+
+    "Failed to get Payment token from server.":"Failed to get Payment token from server.",
+    "There is Issue in response. >":"There is Issue in response. >",
+    "Faild to pay, try again with correct data.":"Faild to pay, try again with correct data.",
+    "Success":"Success",
+    "You have paid successfully.":"You have paid successfully.",
+    "Failed to pay, please try again.":"Failed to pay, please try again.",
+
+
+    "CARD NUMBER":"CARD NUMBER",
+    "Please input card number.":"Please input card number.",
+    "Please input expiry date.":"Please input expiry date.",
+    "Please input CVC.":"Please input CVC.",
+
+    "Payout  $":"Payout  $",
+    "Unpaid":"Unpaid",
+    "Online Paid":"Online Paid",
+    "Failed":"Failed",
+    "Offline Paid":"Offline Paid",
+
+    "accepted":"accepted",
+    "rejected": "rejected",
+    "closed": "closed",
+
+    "Pay":"Pay",
+    "Are you sure to cancel request?":"Are you sure to cancel request?",
+    "Failed to accept, please try again":"Failed to accept, please try again",
+
+    "Booking Time":"Booking Time",
+    "Cancel Request":"Cancel Request",
+
+    "Failed to get the current request.":"Failed to get the current request.",
+    "Waiting response from Staff":"Waiting response from Staff",
+
+    "Paid in App":"Paid in App",
+    "Paid by Cash":"Paid by Cash",
+    "Failed to pay":"Failed to pay",
+
+
+    "There is no any":"There is no any",
+    "request":"request",
+    "Click Here to Post new request.":"Click Here to Post new request.",
+
+    "Upcoming":"Upcoming",
+    "Past":"Past",
+    "Failed to leave comments, please try again.":"Failed to leave comments, please try again.",
+
+
+    "Thanks for your payment!":"Thanks for your payment!",
+
+    "Please leave review for staff and other customers.":"Please leave review for staff and other customers.",
+
+    "Submit":"Submit",
+
+    "Failed to remove notification. try again please.":"Failed to remove notification. try again please.",
+    "Do you want to reject this request?":"Do you want to reject this request?",
+
+    "Failed to reject, please try again":"Failed to reject, please try again",
+
+    "Failed to cancel, please try again":"Failed to cancel, please try again",
+    "Reject":"Reject",
+
+    "Are you sure to reject request?":"Are you sure to reject request?",
+
+    "Accept":"Accept",
+    "Are you sure to accept request?":"Are you sure to accept request?",
+
+    "Pay Now":"Pay Now",
+
+    "Duration":"Duration",
+    "mile":"mile",
+    
+    "There is no any notifications yet.":"There is no any notifications yet.",
+    "Click here to request new service.":"Click here to request new service.",
+    "Notifications":"Notifications",
+
+    "Books":"Books",
+    "Notification": "Notification",
+
+    "Profile":"Profile",
+    "History":"History",
+    "Settings":"Settings",
+
+    "Please choose your avatar for staffs.":"Please choose your avatar for staffs.",
+    "Input data is not correct.":"Input data is not correct.",
+
+    "Failed to update profile, please try again.":"Failed to update profile, please try again.",
+    "Profile data was updated.":"Profile data was updated.",
+    "Failed to update profile.":"Failed to update profile.",
+
+    "Update":"Update",
+    "Failed to get active requests.":"Failed to get active requests.",
+
+    "Are you sure you want to accept this request?":"Are you sure you want to accept this request?",
+    "Are you sure you get paid by cash for this request?":"Are you sure you get paid by cash for this request?",
+    "Something went wrong, please try again":"Something went wrong, please try again",
+    "Failed to confirm payment as offline , please try again":"Failed to confirm payment as offline , please try again",
+
+    "Price":"Price",
+    "Waiting":"Waiting",
+    "Opened":"Opened",
+    "There is no any processed request.":"There is no any processed request.",
+
+    "unpaid":"unpaid",
+    "online_paid":"online_paid",
+    "offline_paid":"offline_paid",
+
+    "Service History":"Service History",
+    "Input data is not correct. please check again.":"Input data is not correct. please check again.",
+
+    "Payment Information":"Payment Information",
+    "Email is invalid. please check again.":"Email is invalid. please check again.",
+    "Are you sure you want to update stripe email with ":"Are you sure you want to update stripe email with ",
+
+
+    "No":"No",
+    "Yes":"Yes",
+    "Failed to update stripe email. try again.":"Failed to update stripe email. try again.",
+    "Success!":"Success!",
+    "You have updated stripe email.":"You have updated stripe email.",
+    "Payment information":"Payment information",
+
+    "Failed to register":"Failed to register",
+    "New Stripe Email":"New Stripe Email",
+    "Please input valid stripe email address.":"Please input valid stripe email address.",
+    "You have an account now.":"You have an account now.",
+    "Reviews of Staff":"Reviews of Staff",
+    "err":"err",
+    "posted":"Posted",
+    "Service Packages":"Service Packages",
+    " Time passed: " : " Time passed: ",
+    "Failed to get packages. ":"Failed to get packages. ",
+    "Failed to get packages.try again.":"Failed to get packages.try again.",
+    "Register as Staff":"Register as Staff",
+    "Input Price & Duration":"Input Price & Duration",
+    "Input Package Price":"Input Package Price",
+    "Input Package Duration(mins)":"Input Package Duration(mins)",
+    "Failed to update staff profile, please try again.":"Failed to update staff profile, please try again.",
+    "You have updated profile.":"You have updated profile.",
+    "Failed to register as staff, please try again.":"Failed to register as staff, please try again.",
+    "You have an staff account now.":"You have an staff account now.",
+    "Sign In With Facebook":"Sign In With Facebook",
+    "Post Request":"Post Request",
+    "There is no any reviews yet.":"There is no any reviews yet.",
+    "Finalize booking!":"Finalize booking!",
+    "Requests":"Requests",
+    "There are no requests available nearby.":"There are no requests available nearby.",
+    "Failed to register, please try again. No response" : "Failed to register, please try again. No response",
+
+
+    "Params are not valid.": "Params are not valid.",
+    "Email is already exist.": "Email is already exist.",
+    "Package data is not valid.": "Package data is not valid.",
+    "Error was occurred while register.": "Error was occurred while register.",
+
+    "please choose your avatar.": "please choose your avatar.",
+    "Please wait response from staffs for 5 mins," : "Please wait response from staffs for 5 mins,",
+    "then you will be able to choose one staff!.": "then you will be able to choose one staff!.",
+    "Sorry, staff has rejected your request.": "Sorry, staff has rejected your request."
+
+
+
+}

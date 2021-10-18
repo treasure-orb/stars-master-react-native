@@ -1,0 +1,4 @@
+MONGODB_URL=mongodb+srv://star:Star123!@star.ys6tr.mongodb.net/StarApp?retryWrites=true&w=majority
+MONGODB_URL_LOCAL=mongodb://localhost:27017/livestream
+PORT = 3000
+TOKEN_SECRET=5wQsqz9FnhY8tKGSRTaVOBGsZLzUH28DDJtgYoXx8b9X7DhO_KYx1yu_9RqetpDMnOwUvMniIsZpJNbZgjYBMF0rcg1zUWFgWtVcp9X7B4FLvzoGNWiJkbPnI_4u7jkebpGsBtY-bVbS_fapv0gLt-zgMl9rwFOVTv0CZRZzgg8

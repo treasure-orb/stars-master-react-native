@@ -1,0 +1,1 @@
+https://github.com/shahen94/react-native-switch
